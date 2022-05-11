@@ -1,0 +1,3 @@
+%{
+  "hedwig": {:hex, :hedwig, "1.0.1", "0e92de2ef19fee826958a4400959ff9064b03203ccffd074ef5e22f3e587eaaf", [:mix], [], "hexpm", "0a9d0278877f2ec868238efd648ea4a201bef0b15d702c376329d9cb0bf636f1"},
+}
